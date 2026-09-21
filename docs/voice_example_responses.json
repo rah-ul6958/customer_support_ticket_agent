@@ -1,0 +1,16 @@
+{
+  "transcription": {
+    "success": true,
+    "transcript": "My payment was charged twice",
+    "processing_time_ms": 820
+  },
+  "transcription_error": {
+    "success": false,
+    "error": "No understandable speech was detected"
+  },
+  "synthesis": {
+    "status": 200,
+    "content_type": "audio/mpeg",
+    "source_text": "Ticket CST-2026-0001 has been created."
+  }
+}
